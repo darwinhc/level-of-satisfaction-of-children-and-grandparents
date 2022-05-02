@@ -9,6 +9,12 @@ Este trabajo es realizado por estudiantes de la Universidad Nacional de Colombia
 - Jhon Jairo Arenas Astier
 - Darwin Stiven Herrera Cartagena
 
+## Informe
+Para obtener una descripción más detallada revisar el siguiente informe
+~~~
+https://rpubs.com/matmartinezpal/897188
+~~~
+
 ## Uso
 
 Se debe ejecutar en un orden especifico para que funcione correctamente
